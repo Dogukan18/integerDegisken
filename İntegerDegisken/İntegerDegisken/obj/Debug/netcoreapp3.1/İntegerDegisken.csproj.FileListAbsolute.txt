@@ -1,0 +1,13 @@
+C:\Users\elado\source\repos\İntegerDegisken\İntegerDegisken\bin\Debug\netcoreapp3.1\İntegerDegisken.exe
+C:\Users\elado\source\repos\İntegerDegisken\İntegerDegisken\bin\Debug\netcoreapp3.1\İntegerDegisken.deps.json
+C:\Users\elado\source\repos\İntegerDegisken\İntegerDegisken\bin\Debug\netcoreapp3.1\İntegerDegisken.runtimeconfig.json
+C:\Users\elado\source\repos\İntegerDegisken\İntegerDegisken\bin\Debug\netcoreapp3.1\İntegerDegisken.runtimeconfig.dev.json
+C:\Users\elado\source\repos\İntegerDegisken\İntegerDegisken\bin\Debug\netcoreapp3.1\İntegerDegisken.dll
+C:\Users\elado\source\repos\İntegerDegisken\İntegerDegisken\bin\Debug\netcoreapp3.1\İntegerDegisken.pdb
+C:\Users\elado\source\repos\İntegerDegisken\İntegerDegisken\obj\Debug\netcoreapp3.1\İntegerDegisken.csproj.AssemblyReference.cache
+C:\Users\elado\source\repos\İntegerDegisken\İntegerDegisken\obj\Debug\netcoreapp3.1\İntegerDegisken.AssemblyInfoInputs.cache
+C:\Users\elado\source\repos\İntegerDegisken\İntegerDegisken\obj\Debug\netcoreapp3.1\İntegerDegisken.AssemblyInfo.cs
+C:\Users\elado\source\repos\İntegerDegisken\İntegerDegisken\obj\Debug\netcoreapp3.1\İntegerDegisken.csproj.CoreCompileInputs.cache
+C:\Users\elado\source\repos\İntegerDegisken\İntegerDegisken\obj\Debug\netcoreapp3.1\İntegerDegisken.dll
+C:\Users\elado\source\repos\İntegerDegisken\İntegerDegisken\obj\Debug\netcoreapp3.1\İntegerDegisken.pdb
+C:\Users\elado\source\repos\İntegerDegisken\İntegerDegisken\obj\Debug\netcoreapp3.1\İntegerDegisken.genruntimeconfig.cache
